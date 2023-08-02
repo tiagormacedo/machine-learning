@@ -1,3 +1,5 @@
+# Machine Learning
+
 Welcome to this repository where I will record Python notebooks that cover introductory notes on machine learning. Each notebook will focus on a specific topic, such as classification problems, regression problems, or neural networks. My main objectives are to gain a deep understanding of machine learning principles and learn how to implement the most common Python libraries for machine learning.
 
 My approach will be straightforward and geared towards deploying machine learning methods to tackle simple, concrete problems. These notebooks will prioritize the applications and won't delve into the mathematical and statistical foundations supporting the effectiveness and convergence of the machine learning techniques.
